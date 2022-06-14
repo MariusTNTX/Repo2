@@ -1,1 +1,2 @@
-versión main experimental
+versión main NO experimental
+Información añadida por la rama experimental
