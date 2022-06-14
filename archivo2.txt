@@ -1,1 +1,1 @@
-versión main experimental
+versión main NO experimental
